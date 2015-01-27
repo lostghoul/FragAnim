@@ -1,0 +1,208 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/uiDesigner.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* AndroidManifest.xml~
+* out/
+* out/production/
+* out/production/AnimationPlayground/
+* out/production/AnimationPlayground/AnimationPlayground.apk
+* out/production/AnimationPlayground/AnimationPlayground.unaligned.apk
+* out/production/AnimationPlayground/com/
+* out/production/AnimationPlayground/com/nineoldandroids/
+* out/production/AnimationPlayground/com/nineoldandroids/BuildConfig.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$attr.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$color.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$dimen.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$drawable.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$id.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$layout.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$raw.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$string.class
+* out/production/AnimationPlayground/com/nineoldandroids/R$styleable.class
+* out/production/AnimationPlayground/com/nineoldandroids/R.class
+* out/production/AnimationPlayground/fr/
+* out/production/AnimationPlayground/fr/northborders/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/BuildConfig.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPath/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPath/ProgressActivity.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPath/ProgressView.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPathSvg/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPathSvg/DrawPathSvgActivity$1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPathSvg/DrawPathSvgActivity.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPathSvg/SvgView$1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DrawPathSvg/SvgView.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/DynamicFormActivity.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/ExtendedEditText.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Fragments/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Fragments/EditContentFragment.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Fragments/EditFieldFragment$1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Fragments/EditFieldFragment$2.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Fragments/EditFieldFragment.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Listeners/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/DynamicForm/Listeners/EditTextFocusListener.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/FragmentAnimationActivity.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/BaseFragment$1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/BaseFragment$2.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/BaseFragment.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/Fragment1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Fragments/Fragment2.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Listeners/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Listeners/Fragment1TouchListener.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/FragmentAnimation/Listeners/Fragment2TouchListener.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Main/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Main/MainActivity.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$attr.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$color.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$dimen.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$drawable.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$id.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$layout.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$raw.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$string.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R$styleable.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/R.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Utils/
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Utils/SvgHelper$1.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Utils/SvgHelper$SvgPath.class
+* out/production/AnimationPlayground/fr/northborders/AnimationPlayground/Utils/SvgHelper.class
+* out/production/nineoldandroid/
+* out/production/nineoldandroid/com/
+* out/production/nineoldandroid/com/nineoldandroids/
+* out/production/nineoldandroid/com/nineoldandroids/BuildConfig.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/
+* out/production/nineoldandroid/com/nineoldandroids/animation/Animator$AnimatorListener.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/Animator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorInflater.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorListenerAdapter.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$1.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$AnimatorSetListener.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$Builder.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$Dependency.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$DependencyListener.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet$Node.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/AnimatorSet.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ArgbEvaluator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/FloatEvaluator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/FloatKeyframeSet.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/IntEvaluator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/IntKeyframeSet.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/Keyframe$FloatKeyframe.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/Keyframe$IntKeyframe.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/Keyframe$ObjectKeyframe.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/Keyframe.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/KeyframeSet.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ObjectAnimator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$1.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$10.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$11.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$12.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$13.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$14.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$2.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$3.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$4.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$5.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$6.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$7.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$8.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat$9.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PreHoneycombCompat.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PropertyValuesHolder$1.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PropertyValuesHolder$FloatPropertyValuesHolder.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PropertyValuesHolder$IntPropertyValuesHolder.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/PropertyValuesHolder.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/TimeAnimator$TimeListener.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/TimeAnimator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/TypeEvaluator.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$1.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$2.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$3.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$4.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$5.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$AnimationHandler.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator$AnimatorUpdateListener.class
+* out/production/nineoldandroid/com/nineoldandroids/animation/ValueAnimator.class
+* out/production/nineoldandroid/com/nineoldandroids/util/
+* out/production/nineoldandroid/com/nineoldandroids/util/FloatProperty.class
+* out/production/nineoldandroid/com/nineoldandroids/util/IntProperty.class
+* out/production/nineoldandroid/com/nineoldandroids/util/NoSuchPropertyException.class
+* out/production/nineoldandroid/com/nineoldandroids/util/Property.class
+* out/production/nineoldandroid/com/nineoldandroids/util/ReflectiveProperty.class
+* out/production/nineoldandroid/com/nineoldandroids/view/
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewHelper$Honeycomb.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewHelper.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimator.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorHC$1.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorHC$AnimatorEventListener.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorHC$NameValuesHolder.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorHC$PropertyBundle.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorHC.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorICS$1.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorICS.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorPreHC$1.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorPreHC$AnimatorEventListener.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorPreHC$NameValuesHolder.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorPreHC$PropertyBundle.class
+* out/production/nineoldandroid/com/nineoldandroids/view/ViewPropertyAnimatorPreHC.class
+* out/production/nineoldandroid/com/nineoldandroids/view/animation/
+* out/production/nineoldandroid/com/nineoldandroids/view/animation/AnimatorProxy.class
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/androidsvg-1.2.0.jar => app/libs/androidsvg-1.2.0.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="accent">#ff009fd6</color>
+    <color name="accent2">#ff509b35</color>
+    <color name="blue_holo">#09c</color>
+    <color name="green_holo">#690</color>
+    <color name="green_sea_holo">#33ffb7</color>
+    <color name="orange_holo">#f80</color>
+    <color name="red_holo">#c00</color>
+    <color name="violet_holo">#93c</color>
+    <color name="white">#ffffff</color>
+    <declare-styleable name="SvgView"><attr format="float" name="strokeWidth"/><attr format="color|reference" name="strokeColor"/><attr format="float" name="phase"/><attr format="integer" name="duration"/><attr format="float" name="fadeFactor"/><attr format="dimension" name="waitRadius"/><attr format="dimension" name="arrowLength"/><attr format="dimension" name="arrowHeight"/></declare-styleable>
+    <!-- From: file:/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/src/main/res/values/dimensions.xml -->
+    <eat-comment/>
+    <dimen name="margin_mode_container">10dp</dimen>
+    <!-- From: file:/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AnimationPlayground</string>
+</resources>

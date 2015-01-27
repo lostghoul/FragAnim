@@ -1,0 +1,5 @@
+/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/build/intermediates/classes/debug
+/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3e5cc10d04cdef24c076e9a516de7576ad4ddfad.jar
+/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-849d5db96289937e74b7bfa0197042752972bd80.jar
+/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/build/intermediates/pre-dexed/debug/androidsvg-1.2.0-0f7b4fe334c1df41b040897f5936a286d76f64e2.jar
+/home/sunshaogang/workspace/workspace-idea/workspace/FragAnim/app/build/intermediates/pre-dexed/debug/classes-28573cac4d8014fedf544c476d36c801bcb51df6.jar
